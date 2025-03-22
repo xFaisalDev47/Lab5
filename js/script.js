@@ -2,8 +2,9 @@ document.getElementById("fetchImage").addEventListener("click", async () => {
     try {
         const response = await fetch("https://api.unsplash.com/photos/random?query=meme&orientation=landscape&client_id=f-t0VhG5vyxyBUZIeA9KNys_K0qs3NlAMT7u2kij5Gc");
         const data = await response.json();
-        loadImage(data.imageUrl);
-    } catch {
+        loadImage(data.urls.regular);
+    } catch (error) {
+        console.error("Fetch image error:", error);
         alert("Failed to fetch an image.");
     }
 });
