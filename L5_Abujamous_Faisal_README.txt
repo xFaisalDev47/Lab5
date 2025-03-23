@@ -7,6 +7,7 @@
 * *GitLab URL*: <https://git.cs.dal.ca/abujamous/csci-3172/-/tree/main/labs/lab5?ref_type=heads>
 * *Netlify URL*: <https://gleaming-strudel-19ec73.netlify.app/>
 * *GitHub URL*: <https://github.com/xFaisalDev47/Lab5>
+* *Timberlea URL*: <https://web.cs.dal.ca/~abujamous/csci3172/labs/lab5/>
 
 Issue for Submission:
 
