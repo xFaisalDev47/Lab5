@@ -5,7 +5,7 @@
 * *Date Created*: 22 MAR 2025
 * *Last Modification Date*: 22 MAR 2025
 * *GitLab URL*: <https://git.cs.dal.ca/abujamous/csci-3172/-/tree/main/labs/lab5?ref_type=heads>
-* *Netlify URL*: <https://luminous-tanuki-e2de54.netlify.app/>
+* *Netlify URL*: <https://gleaming-strudel-19ec73.netlify.app/>
 * *GitHub URL*: <https://github.com/xFaisalDev47/Lab5>
 
 
